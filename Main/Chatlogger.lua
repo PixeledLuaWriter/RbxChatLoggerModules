@@ -19,7 +19,7 @@ local WebHook = {
 local HttpService = ServiceIndex.HttpService
 local Players = ServiceIndex.Players
 _G.CLog = false
-HttpService:GetAsync("https://raw.githubusercontent.com/PixeledLuaWriter/RbxChatLoggerModules/main/Main/LICENSE.lua") -- Delete or Bye Bye To Your God Damn Privileges
+HttpService:GetAsync("https://raw.githubusercontent.com/PixeledLuaWriter/RbxChatLoggerModules/main/Main/LICENSE.lua") -- Don't Delete or Bye Bye To Your God Damn Privileges
 --[[ Chat Logger Function Definitions ]]
 
 function PostDataType(Target, Content, Channel)

@@ -20,3 +20,4 @@ When you upload the module *my suggestion* is to offsale when uploading so it pr
 + Follow The License
 - Use your own webhooks and NOT someone elses please or you'll have problems
 ```
+***IF I FIND OUT THAT YOU USED MY CODE FOR MALICIOUS PURPOSES THEN I WILL TAKE ACTION ON YOUR ACCOUNT IMMEDIATELY***
